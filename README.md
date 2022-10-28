@@ -22,7 +22,7 @@ For example, for my project, 0 represents the class "normal control", and 1 repr
 
 Open your image directory, and start labeling by pressing "A" and "D". When you finished, the label will automatically be saved in a CSV file named label.csv.
 
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Circle-icons-caution.svg/512px-Circle-icons-caution.svg.png?20160314153512" width="10px"> Caution: the CSV file will not be saved unless you press the "SAVE" button or finish labeling for all images in this directory. If you want to save the CSV file half way during your labeling, always remember to press the "SAVE" button.
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Circle-icons-caution.svg/512px-Circle-icons-caution.svg.png?20160314153512" width="25px"> Caution: the CSV file will not be saved unless you press the "SAVE" button or finish labeling for all images in this directory. If you want to save the CSV file half way during your labeling, always remember to press the "SAVE" button.
 
 ![](https://user-images.githubusercontent.com/30890745/198586004-6d8c2eda-2b22-4cf7-91be-8295ca7d2116.png)
 ![](https://user-images.githubusercontent.com/30890745/198586919-39215313-e98a-41d7-acc3-102b9ca640aa.png)
